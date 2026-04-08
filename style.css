@@ -1,0 +1,5 @@
+.site-header{
+    position: relative;
+    z-index: 3000;
+    background-color: #fff;
+}
